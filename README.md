@@ -1,10 +1,9 @@
 # 💫 Hey, I'm Shibam Dey Roy  
 
-💻 Full Stack Developer (MERN) in progress  
-🚀 Building real-world projects, not just tutorials  
-⚡ Curious mind, always learning and improving  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+(MERN);Building+Real-World+Projects;Always+Learning+%26+Improving;Turning+Ideas+Into+Reality" />
+</p> 
 
----
 
 ## 🧠 About Me  
 
@@ -28,29 +27,47 @@ Currently focused on mastering the MERN stack and building scalable web apps.
 
 ## 💻 Tech Stack  
 
-### 🚀 Core  
-JavaScript | Node.js | Express.js | React.js | MongoDB  
+### 🧠 Programming Languages  
+<p>
+  <img src="https://skillicons.dev/icons?i=js,python,java,c" />
+</p>
 
-### 🎨 Frontend  
-HTML5 | CSS3 | Bootstrap | Tailwind CSS  
+### ⚙️ Backend Development  
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
 
-### ⚙️ Backend & Tools  
-Firebase | AWS | REST APIs | Git & GitHub  
+### 🎨 Frontend Development  
+<p>
+  <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,bootstrap" />
+</p>
 
-### 🧠 Languages  
-C | Java | Python  
+### 🗄️ Database  
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,firebase,supabase" />
+</p>
+
+### ☁️ Cloud & Deployment  
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,vercel,netlify,render" />
+</p>
+
+### 🛠️ Tools & Technologies  
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,antigravity,claude" />
+</p>
 
 ---
 
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mrdeyroy&show_icons=true&theme=merko&hide_border=true" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=mrdeyroy&theme=merko&hide_border=true" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=mrdeyroy&show_icons=true&theme=merko&hide_border=true&count_private=true&include_all_commits=true" height="165" />
+  <img src="https://streak-stats.demolab.com?user=mrdeyroy&theme=merko&hide_border=true" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrdeyroy&layout=compact&theme=merko&hide_border=true" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mrdeyroy&layout=compact&theme=merko&hide_border=true&count_private=true" height="165" />
 </p>
 
 ---
@@ -60,14 +77,6 @@ C | Java | Python
 <p align="center">
   <img src="https://raw.githubusercontent.com/mrdeyroy/mrdeyroy/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" />
   <img src="https://raw.githubusercontent.com/mrdeyroy/mrdeyroy/output/github-contribution-grid-snake.svg#gh-light-mode-only" />
-</p>
-
----
-
-## 🏆 Achievements  
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mrdeyroy&theme=radical&no-frame=true&no-bg=true&margin-w=4" />
 </p>
 
 ---
