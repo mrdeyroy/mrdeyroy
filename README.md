@@ -19,9 +19,19 @@ Currently focused on mastering the MERN stack and building scalable web apps.
 
 ## 🌐 Connect With Me  
 
-- 📸 Instagram: https://instagram.com/mr_deyroy_  
-- 💼 LinkedIn: https://linkedin.com/in/Shibamdeyroy  
-- 📧 Email: shibamdeyroy02@gmail.com  
+<p align="center">
+  <a href="https://instagram.com/mr_deyroy_">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  
+  <a href="https://linkedin.com/in/Shibamdeyroy">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  
+  <a href="mailto:shibamdeyroy02@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ---
 
@@ -32,14 +42,14 @@ Currently focused on mastering the MERN stack and building scalable web apps.
   <img src="https://skillicons.dev/icons?i=js,python,java,c" />
 </p>
 
+### 🎨 Frontend Development  
+<p>
+  <img src="https://skillicons.dev/icons?i=react,html,css,tailwind" />
+</p>
+
 ### ⚙️ Backend Development  
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>
-
-### 🎨 Frontend Development  
-<p>
-  <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,bootstrap" />
 </p>
 
 ### 🗄️ Database  
@@ -54,7 +64,7 @@ Currently focused on mastering the MERN stack and building scalable web apps.
 
 ### 🛠️ Tools & Technologies  
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,antigravity,claude" />
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode" />
 </p>
 
 ---
