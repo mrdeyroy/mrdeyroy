@@ -4,6 +4,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+(MERN);Building+Real-World+Projects;Always+Learning+%26+Improving;Turning+Ideas+Into+Reality" />
 </p> 
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mrdeyroy&label=Profile%20Views&color=2ECC71&style=for-the-badge" alt="Profile visitor count" />
+</p>
 
 ## 🧠 About Me  
 
