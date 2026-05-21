@@ -1,0 +1,72 @@
+name: Update Merged PRs
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pull-requests: read
+
+jobs:
+  update-prs:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repo
+        uses: actions/checkout@v4
+
+      - name: Generate PR Table
+        uses: actions/github-script@v7
+        with:
+          github-token: ${{ secrets.GH_TOKEN }}
+          script: |
+            const username = 'mrdeyroy';
+
+            const query = `
+            query {
+              user(login: "${username}") {
+                pullRequests(first: 50, states: MERGED, orderBy: {field: UPDATED_AT, direction: DESC}) {
+                  nodes {
+                    title
+                    number
+                    url
+                    repository {
+                      nameWithOwner
+                    }
+                  }
+                }
+              }
+            }`;
+
+            const result = await github.graphql(query);
+
+            const prs = result.user.pullRequests.nodes
+              .filter(pr => !pr.repository.nameWithOwner.startsWith(username + "/"))
+              .slice(0, 10);
+
+            let table = "";
+
+            for (const pr of prs) {
+              table += `| [#${pr.number}](${pr.url}) | ${pr.repository.nameWithOwner} | ${pr.title} |\n`;
+            }
+
+            const fs = require('fs');
+
+            const readme = fs.readFileSync('README.md', 'utf8');
+
+            const updated = readme.replace(
+              /<!--START_SECTION:merged_prs-->[\s\S]*<!--END_SECTION:merged_prs-->/,
+              `<!--START_SECTION:merged_prs-->\n${table}<!--END_SECTION:merged_prs-->`
+            );
+
+            fs.writeFileSync('README.md', updated);
+
+      - name: Commit Changes
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add README.md
+          git commit -m "Updated merged PR list" || exit 0
+          git push
