@@ -22,16 +22,21 @@ jobs:
         with:
           github-token: ${{ secrets.GH_TOKEN }}
           script: |
-            const username = 'mrdeyroy';
+            const username = "mrdeyroy";
 
             const query = `
             query {
               user(login: "${username}") {
-                pullRequests(first: 50, states: MERGED, orderBy: {field: UPDATED_AT, direction: DESC}) {
+                pullRequests(
+                  first: 50,
+                  states: MERGED,
+                  orderBy: {field: UPDATED_AT, direction: DESC}
+                ) {
                   nodes {
                     title
                     number
                     url
+                    mergedAt
                     repository {
                       nameWithOwner
                     }
@@ -43,30 +48,46 @@ jobs:
             const result = await github.graphql(query);
 
             const prs = result.user.pullRequests.nodes
-              .filter(pr => !pr.repository.nameWithOwner.startsWith(username + "/"))
+              // Exclude your own repositories
+              .filter(
+                pr => !pr.repository.nameWithOwner
+                  .toLowerCase()
+                  .startsWith(username.toLowerCase() + "/")
+              )
               .slice(0, 10);
 
-            let table = "";
+            let table = `
+            | PR | Repository | Title |
+            |---|---|---|
+            `;
 
             for (const pr of prs) {
-              table += `| [#${pr.number}](${pr.url}) | ${pr.repository.nameWithOwner} | ${pr.title} |\n`;
+              // Prevent markdown table breaking
+              const cleanTitle = pr.title
+                .replace(/\|/g, "-")
+                .replace(/\r?\n|\r/g, " ");
+
+              table += `| [#${pr.number}](${pr.url}) | ${pr.repository.nameWithOwner} | ${cleanTitle} |\n`;
             }
 
-            const fs = require('fs');
+            const fs = require("fs");
 
-            const readme = fs.readFileSync('README.md', 'utf8');
+            const readme = fs.readFileSync("README.md", "utf8");
 
             const updated = readme.replace(
               /<!--START_SECTION:merged_prs-->[\s\S]*<!--END_SECTION:merged_prs-->/,
-              `<!--START_SECTION:merged_prs-->\n${table}<!--END_SECTION:merged_prs-->`
+              `<!--START_SECTION:merged_prs-->\n${table}\n<!--END_SECTION:merged_prs-->`
             );
 
-            fs.writeFileSync('README.md', updated);
+            fs.writeFileSync("README.md", updated);
 
       - name: Commit Changes
         run: |
-          git config user.name github-actions
-          git config user.email github-actions@github.com
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+
           git add README.md
+
           git commit -m "Updated merged PR list" || exit 0
+
           git push
