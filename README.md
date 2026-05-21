@@ -184,6 +184,13 @@ AI-powered developer roast platform that analyzes GitHub profiles and portfolios
 
 ---
 
+## 📌 Recent Open Source Activity
+
+<!--RECENT_ACTIVITY:start-->
+<!--RECENT_ACTIVITY:end-->
+
+---
+
 ## 🚀 Open Source Analytics
 
 <p align="center">
