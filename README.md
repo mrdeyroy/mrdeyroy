@@ -168,6 +168,29 @@ AI-powered developer roast platform that analyzes GitHub profiles and portfolios
 </tr>
 </table>
 
+---
+### Open Source Work · 2026
+
+<p align="center">
+  GSSoC: Open Source + AI/Agents track 
+  <br> <br>
+  <a href="https://gssoc.girlscript.org/profile/03dcfa22-3b76-469a-afde-57bd134381af">
+    <img src="https://img.shields.io/badge/GSSoC_2026-2.0K%2B_Points-FF6B35?style=for-the-badge&logo=opensourceinitiative&logoColor=white&labelColor=101828" alt="GSSoC 2026     1500+ official points" />
+  </a>
+</p>
+
+---
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mrdeyroy&theme=tokyonight" alt="GitHub Profile Summary" width="96%" />
+
+<br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mrdeyroy&theme=tokyonight" alt="Repos per Language" width="48%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mrdeyroy&theme=tokyonight" alt="Most Commit Language" width="48%" />
+
+</div>
 
 ---
 
@@ -176,10 +199,6 @@ AI-powered developer roast platform that analyzes GitHub profiles and portfolios
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=mrdeyroy&show_icons=true&theme=merko&hide_border=true&count_private=true&include_all_commits=true" height="165" />
   <img src="https://streak-stats.demolab.com?user=mrdeyroy&theme=merko&hide_border=true" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mrdeyroy&layout=compact&theme=merko&hide_border=true&count_private=true" height="165" />
 </p>
 
 ---
