@@ -15,8 +15,9 @@ Currently focused on mastering the MERN stack and building scalable web apps.
 
 - 🔧 Building full-stack apps with real-world workflows  
 - 📈 Learning advanced backend & performance optimization  
-- 🤝 Open to open-source collaboration  
-- ⚽ Football + tech = my daily combo  
+- 🤝 Open to open-source collaboration
+- 🔥 Contributing through pull requests, issue fixes & feature development
+- 🌱 Exploring large-scale real-world codebases  
 
 ---
 
@@ -35,7 +36,6 @@ Currently focused on mastering the MERN stack and building scalable web apps.
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
-
 
 
 ## 💻 Tech Stack  
@@ -72,6 +72,105 @@ Currently focused on mastering the MERN stack and building scalable web apps.
 
 ---
 
+## 🔥 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 🌾 CropifyAI
+
+AI-powered agriculture platform focused on smarter farming assistance, crop recommendations, and real-world agricultural workflows.
+
+<p align="left">
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+</p>
+
+<a href="YOUR_CROPIFYAI_LIVE_LINK">
+  <img src="https://img.shields.io/badge/Live_Demo-00C853?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
+<a href="YOUR_CROPIFYAI_REPO_LINK">
+  <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</td>
+
+<td width="50%">
+
+### 🛒 Ghoroa Bazar
+
+Modern MERN-based grocery e-commerce platform with authentication, product management, and real-world shopping workflows.
+
+<p align="left">
+  <img src="https://img.shields.io/badge/MERN-3C873A?style=flat-square" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+</p>
+
+<a href="YOUR_GHOROA_BAZAR_LIVE_LINK">
+  <img src="https://img.shields.io/badge/Live_Demo-00C853?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
+<a href="YOUR_GHOROA_BAZAR_REPO_LINK">
+  <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### ❤️ SevaLink
+
+Community-driven platform designed to simplify help, support, and service connections through an intuitive web experience.
+
+<p align="left">
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react" />
+  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+</p>
+
+<a href="YOUR_SEVALINK_LIVE_LINK">
+  <img src="https://img.shields.io/badge/Live_Demo-00C853?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
+<a href="YOUR_SEVALINK_REPO_LINK">
+  <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</td>
+
+<td width="50%">
+
+### 🔥 DevRoastAI
+
+AI-powered developer roast platform that analyzes GitHub profiles and portfolios to generate funny, sharable developer roasts.
+
+<p align="left">
+  <img src="https://img.shields.io/badge/AI-Powered-blueviolet?style=flat-square" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
+</p>
+
+<a href="YOUR_DEVROASTAI_LIVE_LINK">
+  <img src="https://img.shields.io/badge/Live_Demo-00C853?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
+<a href="YOUR_DEVROASTAI_REPO_LINK">
+  <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</td>
+</tr>
+</table>
+
+
+---
+
 ## 📊 GitHub Stats  
 
 <p align="center">
@@ -81,6 +180,14 @@ Currently focused on mastering the MERN stack and building scalable web apps.
 
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mrdeyroy&layout=compact&theme=merko&hide_border=true&count_private=true" height="165" />
+</p>
+
+---
+
+## 🚀 Open Source Analytics
+
+<p align="center">
+  <img src="./github-metrics.svg" alt="Metrics" width="100%" />
 </p>
 
 ---
