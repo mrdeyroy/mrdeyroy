@@ -183,10 +183,10 @@ AI-powered developer roast platform that analyzes GitHub profiles and portfolios
 
 ## 📌 Recently Merged Pull Requests
 
-| PR | Repository | Title |
-|----|------------|-------|
 <!--START_SECTION:merged_prs-->
-| [#577](https://github.com/Priyanshu-byte-coder/devtrack/pull/577) | Priyanshu-byte-coder/devtrack | fix(ui): improve mobile responsiveness across dashboard components (#514) |
+| PR | Repository | Title |
+|---|---|---|
+| [#577](https://github.com/Priyanshu-byte-coder/devtrack/pull/577) | Priyanshu-byte-coder/devtrack | fix(ui): improve mobile responsiveness across dashboard components |
 | [#301](https://github.com/Premshaw23/Learnova/pull/301) | Premshaw23/Learnova | Refactor: Extract mock data from StudentDashboard to constants file |
 | [#255](https://github.com/Premshaw23/Learnova/pull/255) | Premshaw23/Learnova | Add feature: student attendance analytics |
 | [#116505](https://github.com/firstcontributions/first-contributions/pull/116505) | firstcontributions/first-contributions | Add Mrdeyroy to Contributors list |
