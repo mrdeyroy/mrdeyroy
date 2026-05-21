@@ -181,6 +181,15 @@ AI-powered developer roast platform that analyzes GitHub profiles and portfolios
 
 ---
 
+## 📌 Recently Merged Pull Requests
+
+| PR | Repository | Title |
+|----|------------|-------|
+<!--START_SECTION:merged_prs-->
+<!--END_SECTION:merged_prs-->
+
+---
+
 <div align="center">
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mrdeyroy&theme=tokyonight" alt="GitHub Profile Summary" width="96%" />
