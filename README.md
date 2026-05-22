@@ -187,6 +187,8 @@ AI-powered developer roast platform that analyzes GitHub profiles and portfolios
 
 | PR | Repository | Title |
 |---|---|---|
+| [#3222](https://github.com/dhairyagothi/100_days_100_web_project/pull/3222) | dhairyagothi/100_days_100_web_project | Fix/deployment asset paths |
+| [#598](https://github.com/Priyanshu-byte-coder/devtrack/pull/598) | Priyanshu-byte-coder/devtrack | fix(ui): remove dark overlay on chart hover |
 | [#577](https://github.com/Priyanshu-byte-coder/devtrack/pull/577) | Priyanshu-byte-coder/devtrack | fix(ui): improve mobile responsiveness across dashboard components (#514) |
 | [#301](https://github.com/Premshaw23/Learnova/pull/301) | Premshaw23/Learnova | Refactor: Extract mock data from StudentDashboard to constants file |
 | [#255](https://github.com/Premshaw23/Learnova/pull/255) | Premshaw23/Learnova | Add feature: student attendance analytics |
