@@ -88,11 +88,11 @@ AI-powered agriculture platform focused on smarter farming assistance, crop reco
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
 </p>
 
-<a href="YOUR_CROPIFYAI_LIVE_LINK">
+<a href="https://cropifyai.vercel.app/">
   <img src="https://img.shields.io/badge/Live_Demo-00C853?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 
-<a href="YOUR_CROPIFYAI_REPO_LINK">
+<a href="https://github.com/mrdeyroy/cropifyai">
   <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
@@ -110,11 +110,11 @@ Modern MERN-based grocery e-commerce platform with authentication, product manag
   <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
 </p>
 
-<a href="YOUR_GHOROA_BAZAR_LIVE_LINK">
+<a href="https://ghoroa-bazar.vercel.app/">
   <img src="https://img.shields.io/badge/Live_Demo-00C853?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 
-<a href="YOUR_GHOROA_BAZAR_REPO_LINK">
+<a href="https://github.com/mrdeyroy/ghoroa-bazar">
   <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
@@ -134,11 +134,11 @@ Community-driven platform designed to simplify help, support, and service connec
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
 </p>
 
-<a href="YOUR_SEVALINK_LIVE_LINK">
+<a href="https://sevalink-frontend.onrender.com/">
   <img src="https://img.shields.io/badge/Live_Demo-00C853?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 
-<a href="YOUR_SEVALINK_REPO_LINK">
+<a href="https://github.com/mrdeyroy/sevalink">
   <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
@@ -156,11 +156,11 @@ AI-powered developer roast platform that analyzes GitHub profiles and portfolios
   <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
 </p>
 
-<a href="YOUR_DEVROASTAI_LIVE_LINK">
+<a href="https://devroastai.vercel.app/">
   <img src="https://img.shields.io/badge/Live_Demo-00C853?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 
-<a href="YOUR_DEVROASTAI_REPO_LINK">
+<a href="https://github.com/mrdeyroy/dev-roast-ai">
   <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
