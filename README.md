@@ -187,6 +187,8 @@ AI-powered developer roast platform that analyzes GitHub profiles and portfolios
 
 | PR | Repository | Title |
 |---|---|---|
+| [#1652](https://github.com/recodehive/recode-website/pull/1652) | recodehive/recode-website | feat: redesign blog search with real-time suggestions and tags filtering |
+| [#169](https://github.com/mohitkumhar/450-dsa/pull/169) | mohitkumhar/450-dsa | fix(core): add static_folder mapping to Flask initialization |
 | [#3222](https://github.com/dhairyagothi/100_days_100_web_project/pull/3222) | dhairyagothi/100_days_100_web_project | Fix/deployment asset paths |
 | [#598](https://github.com/Priyanshu-byte-coder/devtrack/pull/598) | Priyanshu-byte-coder/devtrack | fix(ui): remove dark overlay on chart hover |
 | [#577](https://github.com/Priyanshu-byte-coder/devtrack/pull/577) | Priyanshu-byte-coder/devtrack | fix(ui): improve mobile responsiveness across dashboard components (#514) |
