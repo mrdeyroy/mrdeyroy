@@ -187,6 +187,9 @@ AI-powered developer roast platform that analyzes GitHub profiles and portfolios
 
 | PR | Repository | Title |
 |---|---|---|
+| [#771](https://github.com/Premshaw23/Learnova/pull/771) | Premshaw23/Learnova | fix: restore original ChatBot widget and logic |
+| [#687](https://github.com/Premshaw23/Learnova/pull/687) | Premshaw23/Learnova | Fix accessibility issues and add missing dependencies |
+| [#689](https://github.com/Premshaw23/Learnova/pull/689) | Premshaw23/Learnova | feat: Add custom offline fallback page for PWA |
 | [#169](https://github.com/mohitkumhar/450-dsa/pull/169) | mohitkumhar/450-dsa | fix(core): add static_folder mapping to Flask initialization |
 | [#166](https://github.com/mohitkumhar/450-dsa/pull/166) | mohitkumhar/450-dsa | Calculate unfiltered difficulty counts and update button values |
 | [#165](https://github.com/mohitkumhar/450-dsa/pull/165) | mohitkumhar/450-dsa | Fix progress card real stats |
@@ -194,9 +197,6 @@ AI-powered developer roast platform that analyzes GitHub profiles and portfolios
 | [#1652](https://github.com/recodehive/recode-website/pull/1652) | recodehive/recode-website | feat: redesign blog search with real-time suggestions and tags filtering |
 | [#3222](https://github.com/dhairyagothi/100_days_100_web_project/pull/3222) | dhairyagothi/100_days_100_web_project | Fix/deployment asset paths |
 | [#598](https://github.com/Priyanshu-byte-coder/devtrack/pull/598) | Priyanshu-byte-coder/devtrack | fix(ui): remove dark overlay on chart hover |
-| [#577](https://github.com/Priyanshu-byte-coder/devtrack/pull/577) | Priyanshu-byte-coder/devtrack | fix(ui): improve mobile responsiveness across dashboard components (#514) |
-| [#301](https://github.com/Premshaw23/Learnova/pull/301) | Premshaw23/Learnova | Refactor: Extract mock data from StudentDashboard to constants file |
-| [#255](https://github.com/Premshaw23/Learnova/pull/255) | Premshaw23/Learnova | Add feature: student attendance analytics |
 
 <!--END_SECTION:merged_prs-->
 
