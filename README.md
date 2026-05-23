@@ -187,14 +187,16 @@ AI-powered developer roast platform that analyzes GitHub profiles and portfolios
 
 | PR | Repository | Title |
 |---|---|---|
-| [#1652](https://github.com/recodehive/recode-website/pull/1652) | recodehive/recode-website | feat: redesign blog search with real-time suggestions and tags filtering |
 | [#169](https://github.com/mohitkumhar/450-dsa/pull/169) | mohitkumhar/450-dsa | fix(core): add static_folder mapping to Flask initialization |
+| [#166](https://github.com/mohitkumhar/450-dsa/pull/166) | mohitkumhar/450-dsa | Calculate unfiltered difficulty counts and update button values |
+| [#165](https://github.com/mohitkumhar/450-dsa/pull/165) | mohitkumhar/450-dsa | Fix progress card real stats |
+| [#577](https://github.com/Premshaw23/Learnova/pull/577) | Premshaw23/Learnova | test: add unit tests for statsService and fix broken registerRoute tests |
+| [#1652](https://github.com/recodehive/recode-website/pull/1652) | recodehive/recode-website | feat: redesign blog search with real-time suggestions and tags filtering |
 | [#3222](https://github.com/dhairyagothi/100_days_100_web_project/pull/3222) | dhairyagothi/100_days_100_web_project | Fix/deployment asset paths |
 | [#598](https://github.com/Priyanshu-byte-coder/devtrack/pull/598) | Priyanshu-byte-coder/devtrack | fix(ui): remove dark overlay on chart hover |
 | [#577](https://github.com/Priyanshu-byte-coder/devtrack/pull/577) | Priyanshu-byte-coder/devtrack | fix(ui): improve mobile responsiveness across dashboard components (#514) |
 | [#301](https://github.com/Premshaw23/Learnova/pull/301) | Premshaw23/Learnova | Refactor: Extract mock data from StudentDashboard to constants file |
 | [#255](https://github.com/Premshaw23/Learnova/pull/255) | Premshaw23/Learnova | Add feature: student attendance analytics |
-| [#116505](https://github.com/firstcontributions/first-contributions/pull/116505) | firstcontributions/first-contributions | Add Mrdeyroy to Contributors list |
 
 <!--END_SECTION:merged_prs-->
 
