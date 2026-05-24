@@ -187,6 +187,8 @@ AI-powered developer roast platform that analyzes GitHub profiles and portfolios
 
 | PR | Repository | Title |
 |---|---|---|
+| [#814](https://github.com/Premshaw23/Learnova/pull/814) | Premshaw23/Learnova | fix: resolve white-on-white text bug on initial load in Navbar |
+| [#882](https://github.com/Premshaw23/Learnova/pull/882) | Premshaw23/Learnova | fix: remove duplicate language dropdown from landing page |
 | [#771](https://github.com/Premshaw23/Learnova/pull/771) | Premshaw23/Learnova | fix: restore original ChatBot widget and logic |
 | [#687](https://github.com/Premshaw23/Learnova/pull/687) | Premshaw23/Learnova | Fix accessibility issues and add missing dependencies |
 | [#689](https://github.com/Premshaw23/Learnova/pull/689) | Premshaw23/Learnova | feat: Add custom offline fallback page for PWA |
@@ -195,8 +197,6 @@ AI-powered developer roast platform that analyzes GitHub profiles and portfolios
 | [#165](https://github.com/mohitkumhar/450-dsa/pull/165) | mohitkumhar/450-dsa | Fix progress card real stats |
 | [#577](https://github.com/Premshaw23/Learnova/pull/577) | Premshaw23/Learnova | test: add unit tests for statsService and fix broken registerRoute tests |
 | [#1652](https://github.com/recodehive/recode-website/pull/1652) | recodehive/recode-website | feat: redesign blog search with real-time suggestions and tags filtering |
-| [#3222](https://github.com/dhairyagothi/100_days_100_web_project/pull/3222) | dhairyagothi/100_days_100_web_project | Fix/deployment asset paths |
-| [#598](https://github.com/Priyanshu-byte-coder/devtrack/pull/598) | Priyanshu-byte-coder/devtrack | fix(ui): remove dark overlay on chart hover |
 
 <!--END_SECTION:merged_prs-->
 
