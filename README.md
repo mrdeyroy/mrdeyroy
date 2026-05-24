@@ -187,6 +187,7 @@ AI-powered developer roast platform that analyzes GitHub profiles and portfolios
 
 | PR | Repository | Title |
 |---|---|---|
+| [#583](https://github.com/Priyanshu-byte-coder/devtrack/pull/583) | Priyanshu-byte-coder/devtrack | handle errors on goal deletion and show user feedback |
 | [#909](https://github.com/Premshaw23/Learnova/pull/909) | Premshaw23/Learnova | fix: resolve input focus loss on the settings profile tab |
 | [#906](https://github.com/Premshaw23/Learnova/pull/906) | Premshaw23/Learnova | fix: persist profile updates to Firestore and eliminate redundant reads |
 | [#896](https://github.com/Premshaw23/Learnova/pull/896) | Premshaw23/Learnova | fix: redirect to specific dashboard after email verification |
@@ -196,7 +197,6 @@ AI-powered developer roast platform that analyzes GitHub profiles and portfolios
 | [#687](https://github.com/Premshaw23/Learnova/pull/687) | Premshaw23/Learnova | Fix accessibility issues and add missing dependencies |
 | [#689](https://github.com/Premshaw23/Learnova/pull/689) | Premshaw23/Learnova | feat: Add custom offline fallback page for PWA |
 | [#169](https://github.com/mohitkumhar/450-dsa/pull/169) | mohitkumhar/450-dsa | fix(core): add static_folder mapping to Flask initialization |
-| [#166](https://github.com/mohitkumhar/450-dsa/pull/166) | mohitkumhar/450-dsa | Calculate unfiltered difficulty counts and update button values |
 
 <!--END_SECTION:merged_prs-->
 
