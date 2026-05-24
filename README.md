@@ -187,6 +187,9 @@ AI-powered developer roast platform that analyzes GitHub profiles and portfolios
 
 | PR | Repository | Title |
 |---|---|---|
+| [#909](https://github.com/Premshaw23/Learnova/pull/909) | Premshaw23/Learnova | fix: resolve input focus loss on the settings profile tab |
+| [#906](https://github.com/Premshaw23/Learnova/pull/906) | Premshaw23/Learnova | fix: persist profile updates to Firestore and eliminate redundant reads |
+| [#896](https://github.com/Premshaw23/Learnova/pull/896) | Premshaw23/Learnova | fix: redirect to specific dashboard after email verification |
 | [#814](https://github.com/Premshaw23/Learnova/pull/814) | Premshaw23/Learnova | fix: resolve white-on-white text bug on initial load in Navbar |
 | [#882](https://github.com/Premshaw23/Learnova/pull/882) | Premshaw23/Learnova | fix: remove duplicate language dropdown from landing page |
 | [#771](https://github.com/Premshaw23/Learnova/pull/771) | Premshaw23/Learnova | fix: restore original ChatBot widget and logic |
@@ -194,9 +197,6 @@ AI-powered developer roast platform that analyzes GitHub profiles and portfolios
 | [#689](https://github.com/Premshaw23/Learnova/pull/689) | Premshaw23/Learnova | feat: Add custom offline fallback page for PWA |
 | [#169](https://github.com/mohitkumhar/450-dsa/pull/169) | mohitkumhar/450-dsa | fix(core): add static_folder mapping to Flask initialization |
 | [#166](https://github.com/mohitkumhar/450-dsa/pull/166) | mohitkumhar/450-dsa | Calculate unfiltered difficulty counts and update button values |
-| [#165](https://github.com/mohitkumhar/450-dsa/pull/165) | mohitkumhar/450-dsa | Fix progress card real stats |
-| [#577](https://github.com/Premshaw23/Learnova/pull/577) | Premshaw23/Learnova | test: add unit tests for statsService and fix broken registerRoute tests |
-| [#1652](https://github.com/recodehive/recode-website/pull/1652) | recodehive/recode-website | feat: redesign blog search with real-time suggestions and tags filtering |
 
 <!--END_SECTION:merged_prs-->
 
