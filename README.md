@@ -187,16 +187,16 @@ AI-powered developer roast platform that analyzes GitHub profiles and portfolios
 
 | PR | Repository | Title |
 |---|---|---|
+| [#1260](https://github.com/Premshaw23/Learnova/pull/1260) | Premshaw23/Learnova | feat: implement missing Activity and Settings tabs in UniversalProfile |
+| [#1201](https://github.com/Premshaw23/Learnova/pull/1201) | Premshaw23/Learnova | perf(FaceRecognizer): lazy load face-api.js to reduce bundle size |
+| [#1200](https://github.com/Premshaw23/Learnova/pull/1200) | Premshaw23/Learnova | fix(settings): dual-write profile updates to firestore and mongodb to… |
+| [#1267](https://github.com/Premshaw23/Learnova/pull/1267) | Premshaw23/Learnova | fix: sync Productivity Page Tasks and Agenda across devices via Fires… |
+| [#1212](https://github.com/Premshaw23/Learnova/pull/1212) | Premshaw23/Learnova | refactor: centralize chatbot contact info |
+| [#1209](https://github.com/Premshaw23/Learnova/pull/1209) | Premshaw23/Learnova | feat: implement dynamic leaderboards data fetching from firestore |
+| [#1196](https://github.com/Premshaw23/Learnova/pull/1196) | Premshaw23/Learnova | fix(noticeBoard): sync read notices state to firestore |
 | [#1189](https://github.com/Premshaw23/Learnova/pull/1189) | Premshaw23/Learnova | feat(dashboard): replace mock data with dynamic firestore logic |
 | [#882](https://github.com/Premshaw23/Learnova/pull/882) | Premshaw23/Learnova | fix: remove duplicate language dropdown from landing page |
 | [#577](https://github.com/Priyanshu-byte-coder/devtrack/pull/577) | Priyanshu-byte-coder/devtrack | fix(ui): improve mobile responsiveness across dashboard components (#514) |
-| [#583](https://github.com/Priyanshu-byte-coder/devtrack/pull/583) | Priyanshu-byte-coder/devtrack | handle errors on goal deletion and show user feedback |
-| [#598](https://github.com/Priyanshu-byte-coder/devtrack/pull/598) | Priyanshu-byte-coder/devtrack | fix(ui): remove dark overlay on chart hover |
-| [#909](https://github.com/Premshaw23/Learnova/pull/909) | Premshaw23/Learnova | fix: resolve input focus loss on the settings profile tab |
-| [#906](https://github.com/Premshaw23/Learnova/pull/906) | Premshaw23/Learnova | fix: persist profile updates to Firestore and eliminate redundant reads |
-| [#896](https://github.com/Premshaw23/Learnova/pull/896) | Premshaw23/Learnova | fix: redirect to specific dashboard after email verification |
-| [#814](https://github.com/Premshaw23/Learnova/pull/814) | Premshaw23/Learnova | fix: resolve white-on-white text bug on initial load in Navbar |
-| [#771](https://github.com/Premshaw23/Learnova/pull/771) | Premshaw23/Learnova | fix: restore original ChatBot widget and logic |
 
 <!--END_SECTION:merged_prs-->
 
