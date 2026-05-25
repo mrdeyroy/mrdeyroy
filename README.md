@@ -187,6 +187,9 @@ AI-powered developer roast platform that analyzes GitHub profiles and portfolios
 
 | PR | Repository | Title |
 |---|---|---|
+| [#1353](https://github.com/Premshaw23/Learnova/pull/1353) | Premshaw23/Learnova | Feature/fix face api trust(Client-Side Spoofing) |
+| [#1344](https://github.com/Premshaw23/Learnova/pull/1344) | Premshaw23/Learnova | Feature/fix timezone sync |
+| [#1203](https://github.com/Premshaw23/Learnova/pull/1203) | Premshaw23/Learnova | fix(StudentDashboard): initialize attendanceStats as state to prevent… |
 | [#1260](https://github.com/Premshaw23/Learnova/pull/1260) | Premshaw23/Learnova | feat: implement missing Activity and Settings tabs in UniversalProfile |
 | [#1201](https://github.com/Premshaw23/Learnova/pull/1201) | Premshaw23/Learnova | perf(FaceRecognizer): lazy load face-api.js to reduce bundle size |
 | [#1200](https://github.com/Premshaw23/Learnova/pull/1200) | Premshaw23/Learnova | fix(settings): dual-write profile updates to firestore and mongodb to… |
@@ -194,9 +197,6 @@ AI-powered developer roast platform that analyzes GitHub profiles and portfolios
 | [#1212](https://github.com/Premshaw23/Learnova/pull/1212) | Premshaw23/Learnova | refactor: centralize chatbot contact info |
 | [#1209](https://github.com/Premshaw23/Learnova/pull/1209) | Premshaw23/Learnova | feat: implement dynamic leaderboards data fetching from firestore |
 | [#1196](https://github.com/Premshaw23/Learnova/pull/1196) | Premshaw23/Learnova | fix(noticeBoard): sync read notices state to firestore |
-| [#1189](https://github.com/Premshaw23/Learnova/pull/1189) | Premshaw23/Learnova | feat(dashboard): replace mock data with dynamic firestore logic |
-| [#882](https://github.com/Premshaw23/Learnova/pull/882) | Premshaw23/Learnova | fix: remove duplicate language dropdown from landing page |
-| [#577](https://github.com/Priyanshu-byte-coder/devtrack/pull/577) | Priyanshu-byte-coder/devtrack | fix(ui): improve mobile responsiveness across dashboard components (#514) |
 
 <!--END_SECTION:merged_prs-->
 
