@@ -187,16 +187,16 @@ AI-powered developer roast platform that analyzes GitHub profiles and portfolios
 
 | PR | Repository | Title |
 |---|---|---|
+| [#2465](https://github.com/SandeepVashishtha/Eventra/pull/2465) | SandeepVashishtha/Eventra | fix: add aria attributes to form inputs for screen readers |
+| [#2466](https://github.com/SandeepVashishtha/Eventra/pull/2466) | SandeepVashishtha/Eventra | docs: clarify mock server side-effects |
+| [#2433](https://github.com/SandeepVashishtha/Eventra/pull/2433) | SandeepVashishtha/Eventra | fix: remove hardcoded localhost API fallbacks in production |
+| [#2442](https://github.com/SandeepVashishtha/Eventra/pull/2442) | SandeepVashishtha/Eventra | refactor: extract chatbot knowledge base to config file |
+| [#2422](https://github.com/SandeepVashishtha/Eventra/pull/2422) | SandeepVashishtha/Eventra | fix: remove massive comment bloat in core components and fix App.js syntax |
 | [#1437](https://github.com/Premshaw23/Learnova/pull/1437) | Premshaw23/Learnova | fix: resolve privilege escalation via repeated role setting  |
 | [#1439](https://github.com/Premshaw23/Learnova/pull/1439) | Premshaw23/Learnova | fix: prevent CPU exhaustion via unbounded Zod record in productivity  |
 | [#1438](https://github.com/Premshaw23/Learnova/pull/1438) | Premshaw23/Learnova | fix: validate faceDescriptor to prevent NoSQL injection and database |
 | [#1436](https://github.com/Premshaw23/Learnova/pull/1436) | Premshaw23/Learnova | fix: resolve ReferenceError causing 500 status on notice creation  |
 | [#1353](https://github.com/Premshaw23/Learnova/pull/1353) | Premshaw23/Learnova | Feature/fix face api trust(Client-Side Spoofing) |
-| [#1344](https://github.com/Premshaw23/Learnova/pull/1344) | Premshaw23/Learnova | Feature/fix timezone sync |
-| [#1203](https://github.com/Premshaw23/Learnova/pull/1203) | Premshaw23/Learnova | fix(StudentDashboard): initialize attendanceStats as state to prevent… |
-| [#1260](https://github.com/Premshaw23/Learnova/pull/1260) | Premshaw23/Learnova | feat: implement missing Activity and Settings tabs in UniversalProfile |
-| [#1201](https://github.com/Premshaw23/Learnova/pull/1201) | Premshaw23/Learnova | perf(FaceRecognizer): lazy load face-api.js to reduce bundle size |
-| [#1200](https://github.com/Premshaw23/Learnova/pull/1200) | Premshaw23/Learnova | fix(settings): dual-write profile updates to firestore and mongodb to… |
 
 <!--END_SECTION:merged_prs-->
 
