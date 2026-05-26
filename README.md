@@ -187,16 +187,16 @@ AI-powered developer roast platform that analyzes GitHub profiles and portfolios
 
 | PR | Repository | Title |
 |---|---|---|
+| [#1437](https://github.com/Premshaw23/Learnova/pull/1437) | Premshaw23/Learnova | fix: resolve privilege escalation via repeated role setting  |
+| [#1439](https://github.com/Premshaw23/Learnova/pull/1439) | Premshaw23/Learnova | fix: prevent CPU exhaustion via unbounded Zod record in productivity  |
+| [#1438](https://github.com/Premshaw23/Learnova/pull/1438) | Premshaw23/Learnova | fix: validate faceDescriptor to prevent NoSQL injection and database |
+| [#1436](https://github.com/Premshaw23/Learnova/pull/1436) | Premshaw23/Learnova | fix: resolve ReferenceError causing 500 status on notice creation  |
 | [#1353](https://github.com/Premshaw23/Learnova/pull/1353) | Premshaw23/Learnova | Feature/fix face api trust(Client-Side Spoofing) |
 | [#1344](https://github.com/Premshaw23/Learnova/pull/1344) | Premshaw23/Learnova | Feature/fix timezone sync |
 | [#1203](https://github.com/Premshaw23/Learnova/pull/1203) | Premshaw23/Learnova | fix(StudentDashboard): initialize attendanceStats as state to prevent… |
 | [#1260](https://github.com/Premshaw23/Learnova/pull/1260) | Premshaw23/Learnova | feat: implement missing Activity and Settings tabs in UniversalProfile |
 | [#1201](https://github.com/Premshaw23/Learnova/pull/1201) | Premshaw23/Learnova | perf(FaceRecognizer): lazy load face-api.js to reduce bundle size |
 | [#1200](https://github.com/Premshaw23/Learnova/pull/1200) | Premshaw23/Learnova | fix(settings): dual-write profile updates to firestore and mongodb to… |
-| [#1267](https://github.com/Premshaw23/Learnova/pull/1267) | Premshaw23/Learnova | fix: sync Productivity Page Tasks and Agenda across devices via Fires… |
-| [#1212](https://github.com/Premshaw23/Learnova/pull/1212) | Premshaw23/Learnova | refactor: centralize chatbot contact info |
-| [#1209](https://github.com/Premshaw23/Learnova/pull/1209) | Premshaw23/Learnova | feat: implement dynamic leaderboards data fetching from firestore |
-| [#1196](https://github.com/Premshaw23/Learnova/pull/1196) | Premshaw23/Learnova | fix(noticeBoard): sync read notices state to firestore |
 
 <!--END_SECTION:merged_prs-->
 
