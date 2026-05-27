@@ -187,6 +187,7 @@ AI-powered developer roast platform that analyzes GitHub profiles and portfolios
 
 | PR | Repository | Title |
 |---|---|---|
+| [#803](https://github.com/steam-bell-92/python-mini-project/pull/803) | steam-bell-92/python-mini-project | Fix/math projects guidelines |
 | [#2465](https://github.com/SandeepVashishtha/Eventra/pull/2465) | SandeepVashishtha/Eventra | fix: add aria attributes to form inputs for screen readers |
 | [#2466](https://github.com/SandeepVashishtha/Eventra/pull/2466) | SandeepVashishtha/Eventra | docs: clarify mock server side-effects |
 | [#2433](https://github.com/SandeepVashishtha/Eventra/pull/2433) | SandeepVashishtha/Eventra | fix: remove hardcoded localhost API fallbacks in production |
@@ -196,7 +197,6 @@ AI-powered developer roast platform that analyzes GitHub profiles and portfolios
 | [#1439](https://github.com/Premshaw23/Learnova/pull/1439) | Premshaw23/Learnova | fix: prevent CPU exhaustion via unbounded Zod record in productivity  |
 | [#1438](https://github.com/Premshaw23/Learnova/pull/1438) | Premshaw23/Learnova | fix: validate faceDescriptor to prevent NoSQL injection and database |
 | [#1436](https://github.com/Premshaw23/Learnova/pull/1436) | Premshaw23/Learnova | fix: resolve ReferenceError causing 500 status on notice creation  |
-| [#1353](https://github.com/Premshaw23/Learnova/pull/1353) | Premshaw23/Learnova | Feature/fix face api trust(Client-Side Spoofing) |
 
 <!--END_SECTION:merged_prs-->
 
