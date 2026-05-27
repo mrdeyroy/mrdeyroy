@@ -187,6 +187,9 @@ AI-powered developer roast platform that analyzes GitHub profiles and portfolios
 
 | PR | Repository | Title |
 |---|---|---|
+| [#2988](https://github.com/SandeepVashishtha/Eventra/pull/2988) | SandeepVashishtha/Eventra | fix: remove unused imports and verify Navbar.js syntax  |
+| [#2973](https://github.com/SandeepVashishtha/Eventra/pull/2973) | SandeepVashishtha/Eventra | fix: resolve global test suite failures causing CI pipeline blocks |
+| [#2978](https://github.com/SandeepVashishtha/Eventra/pull/2978) | SandeepVashishtha/Eventra | fix: remove linter warning and verify EventCard.js syntax |
 | [#2970](https://github.com/SandeepVashishtha/Eventra/pull/2970) | SandeepVashishtha/Eventra | fix: resolve out-of-scope calculateTimeLeft in dependency array (#2469) |
 | [#2962](https://github.com/SandeepVashishtha/Eventra/pull/2962) | SandeepVashishtha/Eventra | fix: resolve ConfirmationModal.js syntax errors and malformed hooks |
 | [#4103](https://github.com/dhairyagothi/100_days_100_web_project/pull/4103) | dhairyagothi/100_days_100_web_project | Fix homepage responsiveness |
@@ -194,9 +197,6 @@ AI-powered developer roast platform that analyzes GitHub profiles and portfolios
 | [#817](https://github.com/steam-bell-92/python-mini-project/pull/817) | steam-bell-92/python-mini-project | refactor: convert utilities projects to follow procedural guidelines |
 | [#803](https://github.com/steam-bell-92/python-mini-project/pull/803) | steam-bell-92/python-mini-project | Fix/math projects guidelines |
 | [#2465](https://github.com/SandeepVashishtha/Eventra/pull/2465) | SandeepVashishtha/Eventra | fix: add aria attributes to form inputs for screen readers |
-| [#2466](https://github.com/SandeepVashishtha/Eventra/pull/2466) | SandeepVashishtha/Eventra | docs: clarify mock server side-effects |
-| [#2433](https://github.com/SandeepVashishtha/Eventra/pull/2433) | SandeepVashishtha/Eventra | fix: remove hardcoded localhost API fallbacks in production |
-| [#2442](https://github.com/SandeepVashishtha/Eventra/pull/2442) | SandeepVashishtha/Eventra | refactor: extract chatbot knowledge base to config file |
 
 <!--END_SECTION:merged_prs-->
 
