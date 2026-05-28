@@ -187,16 +187,16 @@ AI-powered developer roast platform that analyzes GitHub profiles and portfolios
 
 | PR | Repository | Title |
 |---|---|---|
+| [#3129](https://github.com/SandeepVashishtha/Eventra/pull/3129) | SandeepVashishtha/Eventra | Fix Tailwind mismatch, remove v3 config, and fix build errors |
+| [#3267](https://github.com/SandeepVashishtha/Eventra/pull/3267) | SandeepVashishtha/Eventra | docs: add Storybook stories for UI form components  |
+| [#3244](https://github.com/SandeepVashishtha/Eventra/pull/3244) | SandeepVashishtha/Eventra | test: add e2e tests for authentication flow  |
+| [#3259](https://github.com/SandeepVashishtha/Eventra/pull/3259) | SandeepVashishtha/Eventra | fix(a11y): enhance accessibility for form field components  |
+| [#3217](https://github.com/SandeepVashishtha/Eventra/pull/3217) | SandeepVashishtha/Eventra | feat: implement OAuth flow for social login  |
+| [#1834](https://github.com/Premshaw23/Learnova/pull/1834) | Premshaw23/Learnova | feat: enhance and implement global ErrorBoundary system  |
+| [#1832](https://github.com/Premshaw23/Learnova/pull/1832) | Premshaw23/Learnova | feat: enhance Face Recognition initialization UX with clear loading and error states |
+| [#1833](https://github.com/Premshaw23/Learnova/pull/1833) | Premshaw23/Learnova | chore: remove debug console.log statements and add ESLint no-console rule |
 | [#2988](https://github.com/SandeepVashishtha/Eventra/pull/2988) | SandeepVashishtha/Eventra | fix: remove unused imports and verify Navbar.js syntax  |
 | [#2973](https://github.com/SandeepVashishtha/Eventra/pull/2973) | SandeepVashishtha/Eventra | fix: resolve global test suite failures causing CI pipeline blocks |
-| [#2978](https://github.com/SandeepVashishtha/Eventra/pull/2978) | SandeepVashishtha/Eventra | fix: remove linter warning and verify EventCard.js syntax |
-| [#2970](https://github.com/SandeepVashishtha/Eventra/pull/2970) | SandeepVashishtha/Eventra | fix: resolve out-of-scope calculateTimeLeft in dependency array (#2469) |
-| [#2962](https://github.com/SandeepVashishtha/Eventra/pull/2962) | SandeepVashishtha/Eventra | fix: resolve ConfirmationModal.js syntax errors and malformed hooks |
-| [#4103](https://github.com/dhairyagothi/100_days_100_web_project/pull/4103) | dhairyagothi/100_days_100_web_project | Fix homepage responsiveness |
-| [#825](https://github.com/steam-bell-92/python-mini-project/pull/825) | steam-bell-92/python-mini-project | refactor: Convert Games Python CLI scripts to follow procedural guidelines |
-| [#817](https://github.com/steam-bell-92/python-mini-project/pull/817) | steam-bell-92/python-mini-project | refactor: convert utilities projects to follow procedural guidelines |
-| [#803](https://github.com/steam-bell-92/python-mini-project/pull/803) | steam-bell-92/python-mini-project | Fix/math projects guidelines |
-| [#2465](https://github.com/SandeepVashishtha/Eventra/pull/2465) | SandeepVashishtha/Eventra | fix: add aria attributes to form inputs for screen readers |
 
 <!--END_SECTION:merged_prs-->
 
