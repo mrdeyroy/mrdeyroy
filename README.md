@@ -187,9 +187,9 @@ AI-powered developer roast platform that analyzes GitHub profiles and portfolios
 
 | PR | Repository | Title |
 |---|---|---|
+| [#4021](https://github.com/SandeepVashishtha/Eventra/pull/4021) | SandeepVashishtha/Eventra | feat: implement global error boundary  |
 | [#4023](https://github.com/SandeepVashishtha/Eventra/pull/4023) | SandeepVashishtha/Eventra | feat: handle API rate limiting and add exponential backoff retry  |
 | [#4022](https://github.com/SandeepVashishtha/Eventra/pull/4022) | SandeepVashishtha/Eventra | feat: Optimize Application Bundle with Lazy Loading |
-| [#4021](https://github.com/SandeepVashishtha/Eventra/pull/4021) | SandeepVashishtha/Eventra | feat: implement global error boundary  |
 | [#3129](https://github.com/SandeepVashishtha/Eventra/pull/3129) | SandeepVashishtha/Eventra | Fix Tailwind mismatch, remove v3 config, and fix build errors |
 | [#3267](https://github.com/SandeepVashishtha/Eventra/pull/3267) | SandeepVashishtha/Eventra | docs: add Storybook stories for UI form components  |
 | [#3244](https://github.com/SandeepVashishtha/Eventra/pull/3244) | SandeepVashishtha/Eventra | test: add e2e tests for authentication flow  |
