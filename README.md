@@ -187,6 +187,9 @@ AI-powered developer roast platform that analyzes GitHub profiles and portfolios
 
 | PR | Repository | Title |
 |---|---|---|
+| [#4023](https://github.com/SandeepVashishtha/Eventra/pull/4023) | SandeepVashishtha/Eventra | feat: handle API rate limiting and add exponential backoff retry  |
+| [#4022](https://github.com/SandeepVashishtha/Eventra/pull/4022) | SandeepVashishtha/Eventra | feat: Optimize Application Bundle with Lazy Loading |
+| [#4021](https://github.com/SandeepVashishtha/Eventra/pull/4021) | SandeepVashishtha/Eventra | feat: implement global error boundary  |
 | [#3129](https://github.com/SandeepVashishtha/Eventra/pull/3129) | SandeepVashishtha/Eventra | Fix Tailwind mismatch, remove v3 config, and fix build errors |
 | [#3267](https://github.com/SandeepVashishtha/Eventra/pull/3267) | SandeepVashishtha/Eventra | docs: add Storybook stories for UI form components  |
 | [#3244](https://github.com/SandeepVashishtha/Eventra/pull/3244) | SandeepVashishtha/Eventra | test: add e2e tests for authentication flow  |
@@ -194,9 +197,6 @@ AI-powered developer roast platform that analyzes GitHub profiles and portfolios
 | [#3217](https://github.com/SandeepVashishtha/Eventra/pull/3217) | SandeepVashishtha/Eventra | feat: implement OAuth flow for social login  |
 | [#1834](https://github.com/Premshaw23/Learnova/pull/1834) | Premshaw23/Learnova | feat: enhance and implement global ErrorBoundary system  |
 | [#1832](https://github.com/Premshaw23/Learnova/pull/1832) | Premshaw23/Learnova | feat: enhance Face Recognition initialization UX with clear loading and error states |
-| [#1833](https://github.com/Premshaw23/Learnova/pull/1833) | Premshaw23/Learnova | chore: remove debug console.log statements and add ESLint no-console rule |
-| [#2988](https://github.com/SandeepVashishtha/Eventra/pull/2988) | SandeepVashishtha/Eventra | fix: remove unused imports and verify Navbar.js syntax  |
-| [#2973](https://github.com/SandeepVashishtha/Eventra/pull/2973) | SandeepVashishtha/Eventra | fix: resolve global test suite failures causing CI pipeline blocks |
 
 <!--END_SECTION:merged_prs-->
 
