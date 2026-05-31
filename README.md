@@ -187,6 +187,9 @@ AI-powered developer roast platform that analyzes GitHub profiles and portfolios
 
 | PR | Repository | Title |
 |---|---|---|
+| [#4668](https://github.com/SandeepVashishtha/Eventra/pull/4668) | SandeepVashishtha/Eventra | fix: Resolve ConfirmationModal accessibility and focus trap issues |
+| [#4666](https://github.com/SandeepVashishtha/Eventra/pull/4666) | SandeepVashishtha/Eventra | fix: Fix duplicate "Additional Information" field in EventRegistration form |
+| [#4662](https://github.com/SandeepVashishtha/Eventra/pull/4662) | SandeepVashishtha/Eventra | fix: resolve race condition in EventDetailsPage  |
 | [#4021](https://github.com/SandeepVashishtha/Eventra/pull/4021) | SandeepVashishtha/Eventra | feat: implement global error boundary  |
 | [#4023](https://github.com/SandeepVashishtha/Eventra/pull/4023) | SandeepVashishtha/Eventra | feat: handle API rate limiting and add exponential backoff retry  |
 | [#4022](https://github.com/SandeepVashishtha/Eventra/pull/4022) | SandeepVashishtha/Eventra | feat: Optimize Application Bundle with Lazy Loading |
@@ -194,9 +197,6 @@ AI-powered developer roast platform that analyzes GitHub profiles and portfolios
 | [#3267](https://github.com/SandeepVashishtha/Eventra/pull/3267) | SandeepVashishtha/Eventra | docs: add Storybook stories for UI form components  |
 | [#3244](https://github.com/SandeepVashishtha/Eventra/pull/3244) | SandeepVashishtha/Eventra | test: add e2e tests for authentication flow  |
 | [#3259](https://github.com/SandeepVashishtha/Eventra/pull/3259) | SandeepVashishtha/Eventra | fix(a11y): enhance accessibility for form field components  |
-| [#3217](https://github.com/SandeepVashishtha/Eventra/pull/3217) | SandeepVashishtha/Eventra | feat: implement OAuth flow for social login  |
-| [#1834](https://github.com/Premshaw23/Learnova/pull/1834) | Premshaw23/Learnova | feat: enhance and implement global ErrorBoundary system  |
-| [#1832](https://github.com/Premshaw23/Learnova/pull/1832) | Premshaw23/Learnova | feat: enhance Face Recognition initialization UX with clear loading and error states |
 
 <!--END_SECTION:merged_prs-->
 
