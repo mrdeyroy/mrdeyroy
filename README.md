@@ -187,6 +187,7 @@ AI-powered developer roast platform that analyzes GitHub profiles and portfolios
 
 | PR | Repository | Title |
 |---|---|---|
+| [#2173](https://github.com/Premshaw23/Learnova/pull/2173) | Premshaw23/Learnova | fix: enforce max limit on offline sync payload to prevent DoS |
 | [#4668](https://github.com/SandeepVashishtha/Eventra/pull/4668) | SandeepVashishtha/Eventra | fix: Resolve ConfirmationModal accessibility and focus trap issues |
 | [#4666](https://github.com/SandeepVashishtha/Eventra/pull/4666) | SandeepVashishtha/Eventra | fix: Fix duplicate "Additional Information" field in EventRegistration form |
 | [#4662](https://github.com/SandeepVashishtha/Eventra/pull/4662) | SandeepVashishtha/Eventra | fix: resolve race condition in EventDetailsPage  |
@@ -196,7 +197,6 @@ AI-powered developer roast platform that analyzes GitHub profiles and portfolios
 | [#3129](https://github.com/SandeepVashishtha/Eventra/pull/3129) | SandeepVashishtha/Eventra | Fix Tailwind mismatch, remove v3 config, and fix build errors |
 | [#3267](https://github.com/SandeepVashishtha/Eventra/pull/3267) | SandeepVashishtha/Eventra | docs: add Storybook stories for UI form components  |
 | [#3244](https://github.com/SandeepVashishtha/Eventra/pull/3244) | SandeepVashishtha/Eventra | test: add e2e tests for authentication flow  |
-| [#3259](https://github.com/SandeepVashishtha/Eventra/pull/3259) | SandeepVashishtha/Eventra | fix(a11y): enhance accessibility for form field components  |
 
 <!--END_SECTION:merged_prs-->
 
