@@ -187,16 +187,16 @@ AI-powered developer roast platform that analyzes GitHub profiles and portfolios
 
 | PR | Repository | Title |
 |---|---|---|
+| [#2644](https://github.com/Premshaw23/Learnova/pull/2644) | Premshaw23/Learnova | fix: optimize class schedule sorting on save in Timetable |
+| [#2628](https://github.com/Premshaw23/Learnova/pull/2628) | Premshaw23/Learnova | feat(attendance): Add pagination support for attendance requests  |
+| [#2645](https://github.com/Premshaw23/Learnova/pull/2645) | Premshaw23/Learnova | fix: log successful service worker registration in Timetable |
+| [#2646](https://github.com/Premshaw23/Learnova/pull/2646) | Premshaw23/Learnova | fix: replace browser confirmation dialog with Native Browser Confirmation Dialog |
 | [#2173](https://github.com/Premshaw23/Learnova/pull/2173) | Premshaw23/Learnova | fix: enforce max limit on offline sync payload to prevent DoS |
 | [#4668](https://github.com/SandeepVashishtha/Eventra/pull/4668) | SandeepVashishtha/Eventra | fix: Resolve ConfirmationModal accessibility and focus trap issues |
 | [#4666](https://github.com/SandeepVashishtha/Eventra/pull/4666) | SandeepVashishtha/Eventra | fix: Fix duplicate "Additional Information" field in EventRegistration form |
 | [#4662](https://github.com/SandeepVashishtha/Eventra/pull/4662) | SandeepVashishtha/Eventra | fix: resolve race condition in EventDetailsPage  |
 | [#4021](https://github.com/SandeepVashishtha/Eventra/pull/4021) | SandeepVashishtha/Eventra | feat: implement global error boundary  |
 | [#4023](https://github.com/SandeepVashishtha/Eventra/pull/4023) | SandeepVashishtha/Eventra | feat: handle API rate limiting and add exponential backoff retry  |
-| [#4022](https://github.com/SandeepVashishtha/Eventra/pull/4022) | SandeepVashishtha/Eventra | feat: Optimize Application Bundle with Lazy Loading |
-| [#3129](https://github.com/SandeepVashishtha/Eventra/pull/3129) | SandeepVashishtha/Eventra | Fix Tailwind mismatch, remove v3 config, and fix build errors |
-| [#3267](https://github.com/SandeepVashishtha/Eventra/pull/3267) | SandeepVashishtha/Eventra | docs: add Storybook stories for UI form components  |
-| [#3244](https://github.com/SandeepVashishtha/Eventra/pull/3244) | SandeepVashishtha/Eventra | test: add e2e tests for authentication flow  |
 
 <!--END_SECTION:merged_prs-->
 
