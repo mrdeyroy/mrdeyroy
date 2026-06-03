@@ -187,6 +187,9 @@ AI-powered developer roast platform that analyzes GitHub profiles and portfolios
 
 | PR | Repository | Title |
 |---|---|---|
+| [#2974](https://github.com/Premshaw23/Learnova/pull/2974) | Premshaw23/Learnova | fix: replace native alert with toast in AIProductivityInsights  |
+| [#2975](https://github.com/Premshaw23/Learnova/pull/2975) | Premshaw23/Learnova | fix: replace native alert with toast in timetable page  |
+| [#2973](https://github.com/Premshaw23/Learnova/pull/2973) | Premshaw23/Learnova | fix: remove leftover debug log  |
 | [#2901](https://github.com/Premshaw23/Learnova/pull/2901) | Premshaw23/Learnova | fix: replace unbounded stats queries with count aggregations  |
 | [#2900](https://github.com/Premshaw23/Learnova/pull/2900) | Premshaw23/Learnova | fix: Unbounded Array Vulnerability in Zod Validation (Notices & Flashcards API) |
 | [#2644](https://github.com/Premshaw23/Learnova/pull/2644) | Premshaw23/Learnova | fix: optimize class schedule sorting on save in Timetable |
@@ -194,9 +197,6 @@ AI-powered developer roast platform that analyzes GitHub profiles and portfolios
 | [#2645](https://github.com/Premshaw23/Learnova/pull/2645) | Premshaw23/Learnova | fix: log successful service worker registration in Timetable |
 | [#2646](https://github.com/Premshaw23/Learnova/pull/2646) | Premshaw23/Learnova | fix: replace browser confirmation dialog with Native Browser Confirmation Dialog |
 | [#2173](https://github.com/Premshaw23/Learnova/pull/2173) | Premshaw23/Learnova | fix: enforce max limit on offline sync payload to prevent DoS |
-| [#4668](https://github.com/SandeepVashishtha/Eventra/pull/4668) | SandeepVashishtha/Eventra | fix: Resolve ConfirmationModal accessibility and focus trap issues |
-| [#4666](https://github.com/SandeepVashishtha/Eventra/pull/4666) | SandeepVashishtha/Eventra | fix: Fix duplicate "Additional Information" field in EventRegistration form |
-| [#4662](https://github.com/SandeepVashishtha/Eventra/pull/4662) | SandeepVashishtha/Eventra | fix: resolve race condition in EventDetailsPage  |
 
 <!--END_SECTION:merged_prs-->
 
