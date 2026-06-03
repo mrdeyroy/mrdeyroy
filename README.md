@@ -187,6 +187,8 @@ AI-powered developer roast platform that analyzes GitHub profiles and portfolios
 
 | PR | Repository | Title |
 |---|---|---|
+| [#2901](https://github.com/Premshaw23/Learnova/pull/2901) | Premshaw23/Learnova | fix: replace unbounded stats queries with count aggregations  |
+| [#2900](https://github.com/Premshaw23/Learnova/pull/2900) | Premshaw23/Learnova | fix: Unbounded Array Vulnerability in Zod Validation (Notices & Flashcards API) |
 | [#2644](https://github.com/Premshaw23/Learnova/pull/2644) | Premshaw23/Learnova | fix: optimize class schedule sorting on save in Timetable |
 | [#2628](https://github.com/Premshaw23/Learnova/pull/2628) | Premshaw23/Learnova | feat(attendance): Add pagination support for attendance requests  |
 | [#2645](https://github.com/Premshaw23/Learnova/pull/2645) | Premshaw23/Learnova | fix: log successful service worker registration in Timetable |
@@ -195,8 +197,6 @@ AI-powered developer roast platform that analyzes GitHub profiles and portfolios
 | [#4668](https://github.com/SandeepVashishtha/Eventra/pull/4668) | SandeepVashishtha/Eventra | fix: Resolve ConfirmationModal accessibility and focus trap issues |
 | [#4666](https://github.com/SandeepVashishtha/Eventra/pull/4666) | SandeepVashishtha/Eventra | fix: Fix duplicate "Additional Information" field in EventRegistration form |
 | [#4662](https://github.com/SandeepVashishtha/Eventra/pull/4662) | SandeepVashishtha/Eventra | fix: resolve race condition in EventDetailsPage  |
-| [#4021](https://github.com/SandeepVashishtha/Eventra/pull/4021) | SandeepVashishtha/Eventra | feat: implement global error boundary  |
-| [#4023](https://github.com/SandeepVashishtha/Eventra/pull/4023) | SandeepVashishtha/Eventra | feat: handle API rate limiting and add exponential backoff retry  |
 
 <!--END_SECTION:merged_prs-->
 
