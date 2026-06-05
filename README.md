@@ -187,16 +187,16 @@ AI-powered developer roast platform that analyzes GitHub profiles and portfolios
 
 | PR | Repository | Title |
 |---|---|---|
-| [#2466](https://github.com/SandeepVashishtha/Eventra/pull/2466) | SandeepVashishtha/Eventra | docs: clarify mock server side-effects |
-| [#2970](https://github.com/SandeepVashishtha/Eventra/pull/2970) | SandeepVashishtha/Eventra | fix: resolve out-of-scope calculateTimeLeft in dependency array (#2469) |
-| [#2962](https://github.com/SandeepVashishtha/Eventra/pull/2962) | SandeepVashishtha/Eventra | fix: resolve ConfirmationModal.js syntax errors and malformed hooks |
-| [#2973](https://github.com/SandeepVashishtha/Eventra/pull/2973) | SandeepVashishtha/Eventra | fix: resolve global test suite failures causing CI pipeline blocks |
-| [#2978](https://github.com/SandeepVashishtha/Eventra/pull/2978) | SandeepVashishtha/Eventra | fix: remove linter warning and verify EventCard.js syntax |
-| [#2988](https://github.com/SandeepVashishtha/Eventra/pull/2988) | SandeepVashishtha/Eventra | fix: remove unused imports and verify Navbar.js syntax  |
-| [#3129](https://github.com/SandeepVashishtha/Eventra/pull/3129) | SandeepVashishtha/Eventra | Fix Tailwind mismatch, remove v3 config, and fix build errors |
-| [#3217](https://github.com/SandeepVashishtha/Eventra/pull/3217) | SandeepVashishtha/Eventra | feat: implement OAuth flow for social login  |
-| [#3267](https://github.com/SandeepVashishtha/Eventra/pull/3267) | SandeepVashishtha/Eventra | docs: add Storybook stories for UI form components  |
-| [#4662](https://github.com/SandeepVashishtha/Eventra/pull/4662) | SandeepVashishtha/Eventra | fix: resolve race condition in EventDetailsPage  |
+| [#255](https://github.com/Premshaw23/Learnova/pull/255) | Premshaw23/Learnova | Add feature: student attendance analytics |
+| [#301](https://github.com/Premshaw23/Learnova/pull/301) | Premshaw23/Learnova | Refactor: Extract mock data from StudentDashboard to constants file |
+| [#577](https://github.com/Premshaw23/Learnova/pull/577) | Premshaw23/Learnova | test: add unit tests for statsService and fix broken registerRoute tests |
+| [#687](https://github.com/Premshaw23/Learnova/pull/687) | Premshaw23/Learnova | Fix accessibility issues and add missing dependencies |
+| [#689](https://github.com/Premshaw23/Learnova/pull/689) | Premshaw23/Learnova | feat: Add custom offline fallback page for PWA |
+| [#771](https://github.com/Premshaw23/Learnova/pull/771) | Premshaw23/Learnova | fix: restore original ChatBot widget and logic |
+| [#814](https://github.com/Premshaw23/Learnova/pull/814) | Premshaw23/Learnova | fix: resolve white-on-white text bug on initial load in Navbar |
+| [#882](https://github.com/Premshaw23/Learnova/pull/882) | Premshaw23/Learnova | fix: remove duplicate language dropdown from landing page |
+| [#896](https://github.com/Premshaw23/Learnova/pull/896) | Premshaw23/Learnova | fix: redirect to specific dashboard after email verification |
+| [#906](https://github.com/Premshaw23/Learnova/pull/906) | Premshaw23/Learnova | fix: persist profile updates to Firestore and eliminate redundant reads |
 
 <!--END_SECTION:merged_prs-->
 
