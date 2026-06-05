@@ -187,16 +187,16 @@ AI-powered developer roast platform that analyzes GitHub profiles and portfolios
 
 | PR | Repository | Title |
 |---|---|---|
-| [#2974](https://github.com/Premshaw23/Learnova/pull/2974) | Premshaw23/Learnova | fix: replace native alert with toast in AIProductivityInsights  |
-| [#2975](https://github.com/Premshaw23/Learnova/pull/2975) | Premshaw23/Learnova | fix: replace native alert with toast in timetable page  |
-| [#2973](https://github.com/Premshaw23/Learnova/pull/2973) | Premshaw23/Learnova | fix: remove leftover debug log  |
-| [#2901](https://github.com/Premshaw23/Learnova/pull/2901) | Premshaw23/Learnova | fix: replace unbounded stats queries with count aggregations  |
-| [#2900](https://github.com/Premshaw23/Learnova/pull/2900) | Premshaw23/Learnova | fix: Unbounded Array Vulnerability in Zod Validation (Notices & Flashcards API) |
-| [#2644](https://github.com/Premshaw23/Learnova/pull/2644) | Premshaw23/Learnova | fix: optimize class schedule sorting on save in Timetable |
-| [#2628](https://github.com/Premshaw23/Learnova/pull/2628) | Premshaw23/Learnova | feat(attendance): Add pagination support for attendance requests  |
-| [#2645](https://github.com/Premshaw23/Learnova/pull/2645) | Premshaw23/Learnova | fix: log successful service worker registration in Timetable |
-| [#2646](https://github.com/Premshaw23/Learnova/pull/2646) | Premshaw23/Learnova | fix: replace browser confirmation dialog with Native Browser Confirmation Dialog |
-| [#2173](https://github.com/Premshaw23/Learnova/pull/2173) | Premshaw23/Learnova | fix: enforce max limit on offline sync payload to prevent DoS |
+| [#2466](https://github.com/SandeepVashishtha/Eventra/pull/2466) | SandeepVashishtha/Eventra | docs: clarify mock server side-effects |
+| [#2970](https://github.com/SandeepVashishtha/Eventra/pull/2970) | SandeepVashishtha/Eventra | fix: resolve out-of-scope calculateTimeLeft in dependency array (#2469) |
+| [#2962](https://github.com/SandeepVashishtha/Eventra/pull/2962) | SandeepVashishtha/Eventra | fix: resolve ConfirmationModal.js syntax errors and malformed hooks |
+| [#2973](https://github.com/SandeepVashishtha/Eventra/pull/2973) | SandeepVashishtha/Eventra | fix: resolve global test suite failures causing CI pipeline blocks |
+| [#2978](https://github.com/SandeepVashishtha/Eventra/pull/2978) | SandeepVashishtha/Eventra | fix: remove linter warning and verify EventCard.js syntax |
+| [#2988](https://github.com/SandeepVashishtha/Eventra/pull/2988) | SandeepVashishtha/Eventra | fix: remove unused imports and verify Navbar.js syntax  |
+| [#3129](https://github.com/SandeepVashishtha/Eventra/pull/3129) | SandeepVashishtha/Eventra | Fix Tailwind mismatch, remove v3 config, and fix build errors |
+| [#3217](https://github.com/SandeepVashishtha/Eventra/pull/3217) | SandeepVashishtha/Eventra | feat: implement OAuth flow for social login  |
+| [#3267](https://github.com/SandeepVashishtha/Eventra/pull/3267) | SandeepVashishtha/Eventra | docs: add Storybook stories for UI form components  |
+| [#4662](https://github.com/SandeepVashishtha/Eventra/pull/4662) | SandeepVashishtha/Eventra | fix: resolve race condition in EventDetailsPage  |
 
 <!--END_SECTION:merged_prs-->
 
