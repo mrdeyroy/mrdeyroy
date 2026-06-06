@@ -187,16 +187,16 @@ AI-powered developer roast platform that analyzes GitHub profiles and portfolios
 
 | PR | Repository | Title |
 |---|---|---|
-| [#255](https://github.com/Premshaw23/Learnova/pull/255) | Premshaw23/Learnova | Add feature: student attendance analytics |
-| [#301](https://github.com/Premshaw23/Learnova/pull/301) | Premshaw23/Learnova | Refactor: Extract mock data from StudentDashboard to constants file |
-| [#577](https://github.com/Premshaw23/Learnova/pull/577) | Premshaw23/Learnova | test: add unit tests for statsService and fix broken registerRoute tests |
-| [#687](https://github.com/Premshaw23/Learnova/pull/687) | Premshaw23/Learnova | Fix accessibility issues and add missing dependencies |
-| [#689](https://github.com/Premshaw23/Learnova/pull/689) | Premshaw23/Learnova | feat: Add custom offline fallback page for PWA |
-| [#771](https://github.com/Premshaw23/Learnova/pull/771) | Premshaw23/Learnova | fix: restore original ChatBot widget and logic |
-| [#814](https://github.com/Premshaw23/Learnova/pull/814) | Premshaw23/Learnova | fix: resolve white-on-white text bug on initial load in Navbar |
-| [#882](https://github.com/Premshaw23/Learnova/pull/882) | Premshaw23/Learnova | fix: remove duplicate language dropdown from landing page |
-| [#896](https://github.com/Premshaw23/Learnova/pull/896) | Premshaw23/Learnova | fix: redirect to specific dashboard after email verification |
-| [#906](https://github.com/Premshaw23/Learnova/pull/906) | Premshaw23/Learnova | fix: persist profile updates to Firestore and eliminate redundant reads |
+| [#3330](https://github.com/Premshaw23/Learnova/pull/3330) | Premshaw23/Learnova | Fix/debug log universal settings  |
+| [#3329](https://github.com/Premshaw23/Learnova/pull/3329) | Premshaw23/Learnova | Fix/debug log study ai retriever  |
+| [#3328](https://github.com/Premshaw23/Learnova/pull/3328) | Premshaw23/Learnova | Fix/native alert attendance dashboard  |
+| [#7433](https://github.com/SandeepVashishtha/Eventra/pull/7433) | SandeepVashishtha/Eventra | fix: resolve stale closure bug in useOfflineSync hook interval |
+| [#7432](https://github.com/SandeepVashishtha/Eventra/pull/7432) | SandeepVashishtha/Eventra | fix: resolve missing aria-labels and remove redundant aria-label attributes |
+| [#7430](https://github.com/SandeepVashishtha/Eventra/pull/7430) | SandeepVashishtha/Eventra | fix: resolve redundant API calls and lack of caching in useBookmarks |
+| [#7428](https://github.com/SandeepVashishtha/Eventra/pull/7428) | SandeepVashishtha/Eventra | fix: remove unused inefficient mappings in HackathonPage |
+| [#7136](https://github.com/SandeepVashishtha/Eventra/pull/7136) | SandeepVashishtha/Eventra | fix: add ErrorBoundaries to independent complex modals |
+| [#7133](https://github.com/SandeepVashishtha/Eventra/pull/7133) | SandeepVashishtha/Eventra | fix: prevent silent session wipe on network errors during auth validation |
+| [#7126](https://github.com/SandeepVashishtha/Eventra/pull/7126) | SandeepVashishtha/Eventra | fix: improve color contrast for disabled pagination controls  |
 
 <!--END_SECTION:merged_prs-->
 
