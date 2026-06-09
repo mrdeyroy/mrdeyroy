@@ -187,6 +187,7 @@ AI-powered developer roast platform that analyzes GitHub profiles and portfolios
 
 | PR | Repository | Title |
 |---|---|---|
+| [#255](https://github.com/Premshaw23/Learnova/pull/255) | Premshaw23/Learnova | Add feature: student attendance analytics |
 | [#3330](https://github.com/Premshaw23/Learnova/pull/3330) | Premshaw23/Learnova | Fix/debug log universal settings  |
 | [#3329](https://github.com/Premshaw23/Learnova/pull/3329) | Premshaw23/Learnova | Fix/debug log study ai retriever  |
 | [#3328](https://github.com/Premshaw23/Learnova/pull/3328) | Premshaw23/Learnova | Fix/native alert attendance dashboard  |
@@ -196,7 +197,6 @@ AI-powered developer roast platform that analyzes GitHub profiles and portfolios
 | [#7428](https://github.com/SandeepVashishtha/Eventra/pull/7428) | SandeepVashishtha/Eventra | fix: remove unused inefficient mappings in HackathonPage |
 | [#7136](https://github.com/SandeepVashishtha/Eventra/pull/7136) | SandeepVashishtha/Eventra | fix: add ErrorBoundaries to independent complex modals |
 | [#7133](https://github.com/SandeepVashishtha/Eventra/pull/7133) | SandeepVashishtha/Eventra | fix: prevent silent session wipe on network errors during auth validation |
-| [#7126](https://github.com/SandeepVashishtha/Eventra/pull/7126) | SandeepVashishtha/Eventra | fix: improve color contrast for disabled pagination controls  |
 
 <!--END_SECTION:merged_prs-->
 
