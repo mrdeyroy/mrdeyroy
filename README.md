@@ -208,28 +208,6 @@ Open Source + AI/Agents Track
 
 ---
 
-
-## 📌 Recently Merged Pull Requests
-
-<!--START_SECTION:merged_prs-->
-
-| PR | Repository | Title |
-|---|---|---|
-| [#255](https://github.com/Premshaw23/Learnova/pull/255) | Premshaw23/Learnova | Add feature: student attendance analytics |
-| [#3330](https://github.com/Premshaw23/Learnova/pull/3330) | Premshaw23/Learnova | Fix/debug log universal settings  |
-| [#3329](https://github.com/Premshaw23/Learnova/pull/3329) | Premshaw23/Learnova | Fix/debug log study ai retriever  |
-| [#3328](https://github.com/Premshaw23/Learnova/pull/3328) | Premshaw23/Learnova | Fix/native alert attendance dashboard  |
-| [#7433](https://github.com/SandeepVashishtha/Eventra/pull/7433) | SandeepVashishtha/Eventra | fix: resolve stale closure bug in useOfflineSync hook interval |
-| [#7432](https://github.com/SandeepVashishtha/Eventra/pull/7432) | SandeepVashishtha/Eventra | fix: resolve missing aria-labels and remove redundant aria-label attributes |
-| [#7430](https://github.com/SandeepVashishtha/Eventra/pull/7430) | SandeepVashishtha/Eventra | fix: resolve redundant API calls and lack of caching in useBookmarks |
-| [#7428](https://github.com/SandeepVashishtha/Eventra/pull/7428) | SandeepVashishtha/Eventra | fix: remove unused inefficient mappings in HackathonPage |
-| [#7136](https://github.com/SandeepVashishtha/Eventra/pull/7136) | SandeepVashishtha/Eventra | fix: add ErrorBoundaries to independent complex modals |
-| [#7133](https://github.com/SandeepVashishtha/Eventra/pull/7133) | SandeepVashishtha/Eventra | fix: prevent silent session wipe on network errors during auth validation |
-
-<!--END_SECTION:merged_prs-->
-
----
-
 <div align="center">
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mrdeyroy&theme=tokyonight" alt="GitHub Profile Summary" width="96%" />
