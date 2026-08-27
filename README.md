@@ -169,37 +169,42 @@ AI-powered developer roast platform that analyzes GitHub profiles and portfolios
 </table>
 
 ---
-### Open Source Work · 2026
+<div align="center">
 
-<p align="center">
-  <strong>GirlScript Summer of Code 2026</strong>
-  <br>
-  Open Source + AI/Agents Track
-  <br><br>
+### 🏆 Open Source Work · 2026
 
-  <a href="https://gssoc.girlscript.org/profile/03dcfa22-3b76-469a-afde-57bd134381af">
-    <img src="./assets/gssoc/badge-1.png" width="115" alt="GSSoC Badge 1">
-  </a>
-  <a href="https://gssoc.girlscript.org/profile/03dcfa22-3b76-469a-afde-57bd134381af">
-    <img src="./assets/gssoc/badge-2.png" width="115" alt="GSSoC Badge 2">
-  </a>
-  <a href="https://gssoc.girlscript.org/profile/03dcfa22-3b76-469a-afde-57bd134381af">
-    <img src="./assets/gssoc/badge-3.png" width="115" alt="GSSoC Badge 3">
-  </a>
-  <a href="https://gssoc.girlscript.org/profile/03dcfa22-3b76-469a-afde-57bd134381af">
-    <img src="./assets/gssoc/badge-4.png" width="115" alt="GSSoC Badge 4">
-  </a>
+<strong>GirlScript Summer of Code 2026</strong>
+<br>
+Open Source + AI/Agents Track
+<br><br>
+
+<a href="https://gssoc.girlscript.org/profile/03dcfa22-3b76-469a-afde-57bd134381af">
+  <img src="./assets/gssoc/gssoc-badge-elite.png" width="115" alt="GSSoC 2026 Elite Badge">
+</a>
+&nbsp;&nbsp;
+<a href="https://gssoc.girlscript.org/profile/03dcfa22-3b76-469a-afde-57bd134381af">
+  <img src="./assets/gssoc/gssoc-badge-gssoc_champion.png" width="115" alt="GSSoC 2026 Champion Badge">
+</a>
+&nbsp;&nbsp;
+<a href="https://gssoc.girlscript.org/profile/03dcfa22-3b76-469a-afde-57bd134381af">
+  <img src="./assets/gssoc/gssoc-badge-power_contributor.png" width="115" alt="GSSoC 2026 Power Contributor Badge">
+</a>
 
 <br><br>
 
-  <a href="https://gssoc.girlscript.org/profile/03dcfa22-3b76-469a-afde-57bd134381af">
-    <img src="https://img.shields.io/badge/View%20GSSoC%20Profile-101828?style=for-the-badge&logo=opensourceinitiative&logoColor=white" alt="View GSSoC Profile">
-  </a>
-</p>
+<img src="https://img.shields.io/badge/GSSoC%202026-11.3K%2B%20Points-FF6B35?style=for-the-badge&logo=opensourceinitiative&logoColor=white&labelColor=101828" alt="GSSoC 2026 11.0K+ Points">
 
-<p align="center">
-  <em>Active open-source contributor through pull requests, issue fixes, feature development and collaborative projects.</em>
-</p>
+<br><br>
+
+<a href="https://gssoc.girlscript.org/profile/03dcfa22-3b76-469a-afde-57bd134381af">
+  <img src="https://img.shields.io/badge/View%20GSSoC%20Profile-101828?style=for-the-badge&logo=opensourceinitiative&logoColor=white" alt="View GSSoC Profile">
+</a>
+
+<br><br>
+
+<em>Active open-source contributor through pull requests, issue fixes, feature development and collaborative projects.</em>
+
+</div>
 
 ---
 
