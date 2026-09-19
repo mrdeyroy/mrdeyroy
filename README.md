@@ -1,8 +1,13 @@
+<!-- Top GIF / Banner -->
+<p align="center">
+  <img src="https://i.pinimg.com/originals/72/0c/c4/720cc43d757ee638ad5054a05220fafe.gif" alt="Shibam Dey Roy" width="100%" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Shibam Dey Roy</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+(MERN);Building+Real-World+Projects;Always+Learning+%26+Improving;Turning+Ideas+Into+Reality" />
-</p> 
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mrdeyroy&label=Profile%20Views&color=2ECC71&style=for-the-badge" alt="Profile visitor count" />
