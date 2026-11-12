@@ -211,16 +211,20 @@ Open Source + AI/Agents Track
 
 </div>
 
+<br><br>
+
 ---
+
+## 📈 Contribution Graph
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mrdeyroy&theme=tokyonight" alt="GitHub Profile Summary" width="96%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mrdeyroy&theme=merko" alt="GitHub Profile Summary" width="96%" />
 
 <br>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mrdeyroy&theme=tokyonight" alt="Repos per Language" width="48%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mrdeyroy&theme=tokyonight" alt="Most Commit Language" width="48%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mrdeyroy&theme=merko" alt="Repos per Language" width="48%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mrdeyroy&theme=merko" alt="Most Commit Language" width="48%" />
 
 </div>
 
@@ -229,16 +233,8 @@ Open Source + AI/Agents Track
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=mrdeyroy&show_icons=true&theme=merko&hide_border=true&count_private=true&include_all_commits=true" height="165" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mrdeyroy&theme=merko" height="165" />
   <img src="https://streak-stats.demolab.com?user=mrdeyroy&theme=merko&hide_border=true" height="165" />
-</p>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mrdeyroy&theme=tokyo-night&hide_border=true" width="100%"/>
 </p>
 
 ---
