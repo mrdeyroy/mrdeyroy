@@ -79,7 +79,29 @@ Currently focused on mastering the MERN stack and building scalable web apps.
 
 <div align="center">
 
-### 🏆 Open Source Work · 2026
+## 🏆 Open Source Works · 2026
+
+<table width="100%">
+  <tr>
+    <td width="20%" align="center">
+      <a href="https://neomjs.com/badges/mrdeyroy-169705535/">
+        <img src="https://neomjs.com/badges/mrdeyroy-169705535/medal.svg" width="75" alt="Neo.mjs Contributor">
+      </a>
+    </td>
+    <td width="50%">
+      <strong>Neo.mjs</strong><br>
+      Open Source Contributor<br>
+      <sub>Contributing to a large-scale JavaScript framework</sub>
+    </td>
+    <td width="30%" align="center">
+      <a href="https://github.com/search?q=org%3Aneomjs%20is%3Apr%20is%3Amerged%20author%3Amrdeyroy&type=pullrequests">
+        <img src="https://img.shields.io/badge/Merged%20PRs-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Merged PRs">
+      </a>
+    </td>
+  </tr>
+</table>
+
+---
 
 <strong>GirlScript Summer of Code 2026</strong>
 <br>
@@ -102,7 +124,7 @@ Open Source + AI/Agents Track
 
 <img src="https://img.shields.io/badge/GSSoC%202026-11.3K%2B%20Points-FF6B35?style=for-the-badge&logo=opensourceinitiative&logoColor=white&labelColor=101828" alt="GSSoC 2026 11.0K+ Points">
 
-<br><br>
+<br>
 
 <a href="https://gssoc.girlscript.org/profile/03dcfa22-3b76-469a-afde-57bd134381af">
   <img src="https://img.shields.io/badge/View%20GSSoC%20Profile-101828?style=for-the-badge&logo=opensourceinitiative&logoColor=white" alt="View GSSoC Profile">
