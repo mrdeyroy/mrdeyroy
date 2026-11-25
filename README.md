@@ -59,6 +59,23 @@ Currently focused on mastering the MERN stack and building scalable web apps.
 <table width="100%">
   <tr>
     <td width="20%" align="center">
+      <a href="https://github.com/meshery/meshery">
+        <img src="https://raw.githubusercontent.com/meshery/meshery/master/.github/assets/images/meshery/meshery-logo.svg" width="75" alt="Meshery Contributor">
+      </a>
+    </td>
+    <td width="50%">
+      <strong>Meshery</strong><br>
+      Open Source Contributor<br>
+      <sub>Contributing to a cloud native management plane</sub>
+    </td>
+    <td width="30%" align="center">
+      <a href="https://github.com/meshery/meshery/pulls?q=is%3Apr+state%3Aclosed+author%3Amrdeyroy">
+        <img src="https://img.shields.io/badge/Merged%20PRs-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Merged PRs">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="20%" align="center">
       <a href="https://neomjs.com/badges/mrdeyroy-169705535/">
         <img src="https://neomjs.com/badges/mrdeyroy-169705535/medal.svg" width="75" alt="Neo.mjs Contributor">
       </a>
