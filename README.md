@@ -42,40 +42,15 @@ Currently focused on mastering the MERN stack and building scalable web apps.
   </a>
 </p>
 
+<br><br>
 
 ## 💻 Tech Stack  
 
-### 🧠 Programming Languages  
-<p>
-  <img src="https://skillicons.dev/icons?i=js,python,java,c" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,python,java,c,react,html,css,tailwind,nodejs,express,mongodb,firebase,supabase,aws,vercel,netlify,render,git,github,postman,vscode" />
 </p>
 
-### 🎨 Frontend Development  
-<p>
-  <img src="https://skillicons.dev/icons?i=react,html,css,tailwind" />
-</p>
-
-### ⚙️ Backend Development  
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>
-
-### 🗄️ Database  
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,firebase,supabase" />
-</p>
-
-### ☁️ Cloud & Deployment  
-<p>
-  <img src="https://skillicons.dev/icons?i=aws,vercel,netlify,render" />
-</p>
-
-### 🛠️ Tools & Technologies  
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode" />
-</p>
-
----
+<br><br>
 
 <div align="center">
 
