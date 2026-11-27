@@ -47,7 +47,7 @@ Currently focused on mastering the MERN stack and building scalable web apps.
 ## 💻 Tech Stack  
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,python,java,c,react,html,css,tailwind,nodejs,express,mongodb,firebase,supabase,aws,vercel,netlify,render,git,github,postman,vscode" />
+  <img src="https://skillicons.dev/icons?i=js,python,java,c,react,html,css,tailwind,nodejs,express,mongodb,typescript,firebase,supabase,aws,vercel,netlify,render,git,github,postman,vscode" />
 </p>
 
 <br><br>
